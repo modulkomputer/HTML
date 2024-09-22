@@ -5,7 +5,10 @@
 > Repository ini kumpulan pembelajaran dan implementasi HTML & CSS untuk pemula
 
 ### Daftar Isi
-* Pelaturan dan Pedoman Konstribusi
-* Akes Cepat
-* Hypertext Markup Language
-* Cascading Style Sheets 
+* [Pelaturan dan Pedoman Konstribusi]()
+* [Akes Cepat]()
+* [Hypertext Markup Language]()
+* [Cascading Style Sheets]() 
+
+### Tatatertib dan Konstribusi
+Dipersilahkan bila ingin melakukan open full pada repo HTML-CSS. sebelum itu bacalah ketentuan terlebih dahulu Peratuan & Pedoman yang dapat ditemuka di CONTRIBUTING.md . 
