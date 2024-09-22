@@ -2,7 +2,7 @@
 
 HTML (Hypertext Markup Language) adalah bahasa markup untuk membangun struktur halaman website, seperti kerangka yang menentukan bentuk tubuh. CSS (Cascading Style Sheets) mengatur tampilan elemen seperti teks & gambar sesuai keinginan.
 
-> Repository ini kumpulan pembelajaran dan implementasi HTML & CSS untuk pemula
+> Repository ini adalah kumpulan pembelajaran dan implementasi HTML & CSS untuk pemula dari tutorial dan materi perkuliahan.
 
 ### Daftar Isi
 * [Pelaturan dan Pedoman Konstribusi]()
