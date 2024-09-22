@@ -4,7 +4,7 @@
 
 > Repository ini kumpulan pembelajaran dan implementasi HTML & CSS untuk pemula
 
-#### Daftar Isi
+### Daftar Isi
 * Pelaturan dan Pedoman Konstribusi
 * Akes Cepat
 * Hypertext Markup Language
