@@ -11,4 +11,4 @@
 * [Cascading Style Sheets]() 
 
 ### Tatatertib dan Konstribusi
-Dipersilahkan bila ingin melakukan open full pada repo HTML-CSS. sebelum itu bacalah ketentuan terlebih dahulu [Peratuan & Pedoman](Contributting.md) yang dapat ditemuka di CONTRIBUTING.md . 
+Dipersilahkan bila ingin melakukan open full pada repo HTML-CSS. sebelum itu bacalah ketentuan terlebih dahulu [Peratuan & Pedoman](Contributting.md) yang dapat ditemuka di Contributting.md . 
