@@ -12,3 +12,6 @@ HTML (Hypertext Markup Language) adalah bahasa markup untuk membangun struktur h
 
 ### Tatatertib dan Konstribusi
 Dipersilahkan bila ingin melakukan open full pada repo HTML-CSS. sebelum itu bacalah ketentuan terlebih dahulu [Peratuan & Pedoman](CONTRIBUTING.md) yang dapat ditemuka di `Contributting.md` 
+
+### Akses Cepat
+Semua `Script` di repository ini dapat diakses cepat melalui link berikut:
