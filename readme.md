@@ -18,5 +18,5 @@ Semua `Script` di repository ini dapat diakses cepat melalui link berikut:
 
 ### HTML
 
-* [HTML Definisi](/HTML/#01%20HTML%20Definisi/README.md)
-* [Introduction](./HTML/#02%20HTML%20Introduction/README.md)
+* [HTML Definisi](HTML/#01)
+* [HTML Introduction](./HTML/%2302%20HTML%20Introduction/README.md)
