@@ -15,3 +15,7 @@ Dipersilahkan bila ingin melakukan open full pada repo HTML-CSS. sebelum itu bac
 
 ### Akses Cepat
 Semua `Script` di repository ini dapat diakses cepat melalui link berikut:
+
+### HTML
+* [Definisi]()
+* [Introduction]()
