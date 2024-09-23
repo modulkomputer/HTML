@@ -17,5 +17,5 @@ Dipersilahkan bila ingin melakukan open full pada repo HTML-CSS. sebelum itu bac
 Semua `Script` di repository ini dapat diakses cepat melalui link berikut:
 
 ### HTML
-* [Definisi](HTML-CSS/HTML/#01%20HTML%20Definisi/README.md)
+* [Definisi](HTML/#01%20HTML%20Definisi/README.md)
 * [Introduction](./HTML/#02%20HTML%20Introduction/README.md)
