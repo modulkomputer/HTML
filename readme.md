@@ -1,6 +1,6 @@
 ### Selamat Datang di Repository HTML-CSS
 
-HTML (Hyper Text Markup Language) adalah bahasa markup standar untuk mengembangkan halaman web. HTML ini akan mendeskripsikan struktur dari halaman web dan memberitahukan browser bagaimana menampilkan konten. CSS (Cascading Style Sheets) mengatur tampilan elemen seperti teks & gambar sesuai keinginan.
+HTML (Hyper Text Markup Language) adalah bahasa markup standar untuk mengembangkan halaman web. HTML ini akan mendeskripsikan struktur dari halaman web dan memberitahukan browser bagaimana menampilkan konten. CSS (Cascading Style Sheet) adalah bahasa markup atau markup language yang digunakan untuk mempercantik website. Bahasa ini merupakan pelengkap dari dokumen HTML.
 
 > Repository ini adalah kumpulan pembelajaran dan implementasi HTML & CSS untuk pemula dari tutorial dan materi perkuliahan.
 
